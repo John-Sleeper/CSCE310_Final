@@ -1,0 +1,2 @@
+DROP TABLE Grades;
+DROP TABLE Students;

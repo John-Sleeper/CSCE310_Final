@@ -1,0 +1,1 @@
+SELECT assignment_name, AVG(points_earned/Grades.max_points * 100) as assignment_score FROM Grades GROUP BY assignment_name;

@@ -1,0 +1,1 @@
+SELECT AVG(points_earned) as average_score FROM Grades WHERE assignment_name='Midterm Exam 1';
